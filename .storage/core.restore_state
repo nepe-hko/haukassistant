@@ -9,22 +9,22 @@
                 "attributes": {
                     "editable": false,
                     "id": "daniel",
-                    "latitude": 49.460818,
-                    "longitude": 11.0817155,
-                    "gps_accuracy": 13,
+                    "latitude": 49.4608343,
+                    "longitude": 11.0816897,
+                    "gps_accuracy": 12,
                     "source": "device_tracker.redmi_note_8_pro",
                     "user_id": "95c81b0e1a784cbca7f0f195f6cb4b35",
                     "friendly_name": "Daniel"
                 },
                 "last_changed": "2021-03-22T12:12:14.587552+00:00",
-                "last_updated": "2021-03-22T14:23:22.423306+00:00",
+                "last_updated": "2021-03-22T15:42:32.536020+00:00",
                 "context": {
-                    "id": "bff829e69ca6f9440a4c6a733c4411fb",
+                    "id": "63aafeb78a54cabc1a03f7ba98fdc402",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -45,7 +45,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -64,7 +64,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -82,7 +82,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -100,7 +100,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -118,7 +118,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -136,7 +136,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -154,7 +154,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -172,7 +172,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -182,15 +182,15 @@
                     "friendly_name": "Redmi Note 8 Pro Ger\u00e4t ist gesperrt",
                     "icon": "mdi:cellphone-lock"
                 },
-                "last_changed": "2021-03-22T14:02:49.018435+00:00",
-                "last_updated": "2021-03-22T14:02:49.018435+00:00",
+                "last_changed": "2021-03-22T15:32:20.515876+00:00",
+                "last_updated": "2021-03-22T15:32:20.515876+00:00",
                 "context": {
-                    "id": "42877dd6dbfb82c97ce37e86550bd795",
+                    "id": "1cd88fff32e465a86d12b7b434b424bb",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -208,7 +208,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -218,15 +218,15 @@
                     "friendly_name": "Redmi Note 8 Pro Displaysperre gesetzt",
                     "icon": "mdi:cellphone-lock"
                 },
-                "last_changed": "2021-03-22T14:02:49.020106+00:00",
-                "last_updated": "2021-03-22T14:02:49.020106+00:00",
+                "last_changed": "2021-03-22T15:32:20.516906+00:00",
+                "last_updated": "2021-03-22T15:32:20.516906+00:00",
                 "context": {
-                    "id": "95c501ed498eeec30df7e09f9482490b",
+                    "id": "8fbf8ad1fd7b1e9c2f4cc877b5f216ad",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -244,7 +244,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -262,7 +262,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -280,7 +280,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -298,7 +298,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -308,15 +308,15 @@
                     "friendly_name": "Redmi Note 8 Pro Inaktiv",
                     "icon": "mdi:cellphone-off"
                 },
-                "last_changed": "2021-03-22T14:15:19.699388+00:00",
-                "last_updated": "2021-03-22T14:15:19.699388+00:00",
+                "last_changed": "2021-03-22T15:32:19.779197+00:00",
+                "last_updated": "2021-03-22T15:32:19.779197+00:00",
                 "context": {
-                    "id": "222019dc38307ed32018b77bfe9b5cec",
+                    "id": "3f2cd868ea4c8993eb7c7f6f40a0f16e",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -327,15 +327,15 @@
                     "friendly_name": "Redmi Note 8 Pro Doze-Modus",
                     "icon": "mdi:sleep-off"
                 },
-                "last_changed": "2021-03-22T06:45:24.526213+00:00",
-                "last_updated": "2021-03-22T06:45:24.526213+00:00",
+                "last_changed": "2021-03-22T15:25:04.591619+00:00",
+                "last_updated": "2021-03-22T15:25:04.591619+00:00",
                 "context": {
-                    "id": "dde5d3535438e8306d12bdcab3ccd810",
+                    "id": "0c3c258b5b414e7b67d07cdedb5432e2",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -353,27 +353,27 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
                 "entity_id": "sensor.redmi_note_8_pro_akkufullstand",
-                "state": "31",
+                "state": "30",
                 "attributes": {
                     "unit_of_measurement": "%",
                     "friendly_name": "Redmi Note 8 Pro Akkuf\u00fcllstand",
                     "icon": "mdi:battery-30",
                     "device_class": "battery"
                 },
-                "last_changed": "2021-03-22T14:15:19.695824+00:00",
-                "last_updated": "2021-03-22T14:15:19.695824+00:00",
+                "last_changed": "2021-03-22T15:07:31.256156+00:00",
+                "last_updated": "2021-03-22T15:07:31.256156+00:00",
                 "context": {
-                    "id": "90498f475b311acd10fcd27c9328b534",
+                    "id": "499b492e77db5ddf4eba7955e57cfc7e",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -391,7 +391,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -409,7 +409,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -427,7 +427,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -445,66 +445,66 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
                 "entity_id": "sensor.redmi_note_8_pro_gesendete_daten_via_app_gb",
-                "state": "0.0035",
+                "state": "0.0038",
                 "attributes": {
                     "unit_of_measurement": "GB",
                     "friendly_name": "Redmi Note 8 Pro Gesendete Daten via App (GB)",
                     "icon": "mdi:radio-tower"
                 },
-                "last_changed": "2021-03-22T14:20:32.988364+00:00",
-                "last_updated": "2021-03-22T14:20:32.988364+00:00",
+                "last_changed": "2021-03-22T15:32:20.513856+00:00",
+                "last_updated": "2021-03-22T15:32:20.513856+00:00",
                 "context": {
-                    "id": "3b8f574738d5ad30fe3a6c5883caff7d",
+                    "id": "d395766dd5ee58a9897d82907bc29203",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
                 "entity_id": "sensor.redmi_note_8_pro_empfangene_daten_via_app_gb",
-                "state": "0.001",
+                "state": "0.0012",
                 "attributes": {
                     "unit_of_measurement": "GB",
                     "friendly_name": "Redmi Note 8 Pro Empfangene Daten via App (GB)",
                     "icon": "mdi:radio-tower"
                 },
-                "last_changed": "2021-03-22T14:02:00.835849+00:00",
-                "last_updated": "2021-03-22T14:02:00.835849+00:00",
+                "last_changed": "2021-03-22T15:32:23.427178+00:00",
+                "last_updated": "2021-03-22T15:32:23.427178+00:00",
                 "context": {
-                    "id": "a0d45aa80fc735544ef233f5986d5907",
+                    "id": "b52558f86cc955f3c371f366317a88d3",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
                 "entity_id": "sensor.redmi_note_8_pro_app_speicher",
-                "state": "0.023",
+                "state": "0.025",
                 "attributes": {
-                    "free_memory": 0.005,
+                    "free_memory": 0.003,
                     "total_memory": 0.028,
                     "unit_of_measurement": "GB",
                     "friendly_name": "Redmi Note 8 Pro App Speicher",
                     "icon": "mdi:memory"
                 },
-                "last_changed": "2021-03-22T14:24:08.002458+00:00",
-                "last_updated": "2021-03-22T14:24:08.002458+00:00",
+                "last_changed": "2021-03-22T15:32:27.702041+00:00",
+                "last_updated": "2021-03-22T15:32:27.702041+00:00",
                 "context": {
-                    "id": "2dc1d88a72a429e9dd75eb0e5dfbc538",
+                    "id": "9c6a116bdc4f5ea7b5476b7d992f7b13",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -522,7 +522,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -540,7 +540,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -558,7 +558,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -568,15 +568,15 @@
                     "friendly_name": "Redmi Note 8 Pro Audiomodus",
                     "icon": "mdi:volume-high"
                 },
-                "last_changed": "2021-03-21T15:13:30.091700+00:00",
-                "last_updated": "2021-03-21T15:13:30.091700+00:00",
+                "last_changed": "2021-03-22T14:45:22.158604+00:00",
+                "last_updated": "2021-03-22T14:45:22.158604+00:00",
                 "context": {
-                    "id": "02b3e6bc67a48b4a7acd9e2f08dce4f5",
+                    "id": "f8af6f911a14fc15906db18d6a36c8fb",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -594,7 +594,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -612,7 +612,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -630,7 +630,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -648,7 +648,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -670,7 +670,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -688,7 +688,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -709,7 +709,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -719,15 +719,15 @@
                     "friendly_name": "Redmi Note 8 Pro Ausl\u00f6ser der letzten Aktualisierung",
                     "icon": "mdi:update"
                 },
-                "last_changed": "2021-03-22T14:20:32.991519+00:00",
-                "last_updated": "2021-03-22T14:20:32.991519+00:00",
+                "last_changed": "2021-03-22T15:32:23.429502+00:00",
+                "last_updated": "2021-03-22T15:32:23.429502+00:00",
                 "context": {
-                    "id": "0a0b471fafa6dbce1f2eabf8dbbcc9df",
+                    "id": "fc7872bb6f1ac7991979d5196023b80c",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -746,7 +746,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -764,7 +764,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -782,7 +782,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -801,7 +801,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -820,7 +820,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -839,7 +839,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -861,16 +861,16 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
                 "entity_id": "sensor.redmi_note_8_pro_anzahl_aktiver_benachrichtigungen",
                 "state": "3",
                 "attributes": {
-                    "android.appInfo_com.miui.mishare.connectivity": "ApplicationInfo{ba81dad com.miui.mishare.connectivity}",
-                    "android.appInfo_com.miui.notification": "ApplicationInfo{10e2ac4 com.miui.notification}",
-                    "android.appInfo_com.miui.securitycenter": "ApplicationInfo{7f471d7 com.miui.securitycenter}",
+                    "android.appInfo_com.miui.mishare.connectivity": "ApplicationInfo{2536fe2 com.miui.mishare.connectivity}",
+                    "android.appInfo_com.miui.notification": "ApplicationInfo{56940ad com.miui.notification}",
+                    "android.appInfo_com.miui.securitycenter": "ApplicationInfo{61f9c4 com.miui.securitycenter}",
                     "android.reduced.images_com.miui.mishare.connectivity": true,
                     "android.reduced.images_com.miui.notification": true,
                     "android.reduced.images_com.miui.securitycenter": true,
@@ -891,15 +891,15 @@
                     "friendly_name": "Redmi Note 8 Pro Anzahl aktiver Benachrichtigungen",
                     "icon": "mdi:bell-ring"
                 },
-                "last_changed": "2021-03-22T14:24:08.006043+00:00",
-                "last_updated": "2021-03-22T14:24:08.006043+00:00",
+                "last_changed": "2021-03-22T15:32:27.704535+00:00",
+                "last_updated": "2021-03-22T15:32:27.704535+00:00",
                 "context": {
-                    "id": "0d807ed7263c368b67f5cf585a537fec",
+                    "id": "1f4c08adbb7f46309b8a0882a1d12395",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -917,7 +917,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -935,7 +935,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -953,7 +953,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -974,7 +974,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -993,7 +993,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -1011,45 +1011,45 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
                 "entity_id": "sensor.redmi_note_8_pro_insgesamt_empfangene_daten_gb",
-                "state": "0.113",
+                "state": "0.117",
                 "attributes": {
                     "unit_of_measurement": "GB",
                     "friendly_name": "Redmi Note 8 Pro Insgesamt empfangene Daten (GB)",
                     "icon": "mdi:radio-tower"
                 },
-                "last_changed": "2021-03-22T14:15:19.701132+00:00",
-                "last_updated": "2021-03-22T14:15:19.701132+00:00",
+                "last_changed": "2021-03-22T15:32:17.943267+00:00",
+                "last_updated": "2021-03-22T15:32:17.943267+00:00",
                 "context": {
-                    "id": "84ea114842d9b9d8dfe26a68a607d104",
+                    "id": "0c30576ed56009ab66d35029f5aedbfc",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
                 "entity_id": "sensor.redmi_note_8_pro_insgesamt_gesendet_gb",
-                "state": "0.015",
+                "state": "0.016",
                 "attributes": {
                     "unit_of_measurement": "GB",
                     "friendly_name": "Redmi Note 8 Pro Insgesamt gesendet (GB)",
                     "icon": "mdi:radio-tower"
                 },
-                "last_changed": "2021-03-22T14:15:19.702320+00:00",
-                "last_updated": "2021-03-22T14:15:19.702320+00:00",
+                "last_changed": "2021-03-22T15:25:10.096246+00:00",
+                "last_updated": "2021-03-22T15:25:10.096246+00:00",
                 "context": {
-                    "id": "42560ca3a2ba91fa35fdc1d3f3509f3f",
+                    "id": "f4ed5e6ecd9ae837e0c77447eaf8563f",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -1078,27 +1078,27 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
                 "entity_id": "sensor.redmi_note_8_pro_helligkeitssensor",
-                "state": "75",
+                "state": "22",
                 "attributes": {
                     "unit_of_measurement": "lx",
                     "friendly_name": "Redmi Note 8 Pro Helligkeitssensor",
                     "icon": "mdi:brightness-5",
                     "device_class": "illuminance"
                 },
-                "last_changed": "2021-03-22T14:24:08.004011+00:00",
-                "last_updated": "2021-03-22T14:24:08.004011+00:00",
+                "last_changed": "2021-03-22T15:32:23.430714+00:00",
+                "last_updated": "2021-03-22T15:32:23.430714+00:00",
                 "context": {
-                    "id": "644461eb65205b25105e09a2b17b9621",
+                    "id": "15d1f8b62c58e59c07284b99a187923a",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -1116,7 +1116,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -1134,7 +1134,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -1153,15 +1153,15 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
                 "entity_id": "sensor.redmi_note_8_pro_letzte_entfernte_benachrichtigungen",
-                "state": "kp mal schaun hab mit vorbehalt zugesagt",
+                "state": "nur fyi",
                 "attributes": {
                     "activityType": "chat",
-                    "android.bigText": "kp mal schaun hab mit vorbehalt zugesagt",
+                    "android.bigText": "nur fyi",
                     "android.infoText": "null",
                     "android.largeIcon": "null",
                     "android.progress": 0,
@@ -1171,37 +1171,35 @@
                     "android.remoteInputHistory": "null",
                     "android.showChronometer": false,
                     "android.showWhen": true,
-                    "android.subText": "1 neue Nachricht",
+                    "android.subText": "2 neue Nachrichten",
                     "android.template": "android.app.Notification$BigTextStyle",
-                    "android.text": "kp mal schaun hab mit vorbehalt zugesagt",
+                    "android.text": "nur fyi",
                     "android.title": "Bastian Walk",
                     "is_clearable": true,
                     "is_ongoing": false,
                     "key_notification_user_object_id": "4ba08c67-32a4-4024-a48e-ca573c58f986",
-                    "messageId": 1616422908644,
+                    "messageId": 1616427138478,
                     "package": "com.microsoft.teams",
-                    "post_time": 1616422907848,
+                    "post_time": 1616427137348,
                     "friendly_name": "Redmi Note 8 Pro Letzte entfernte Benachrichtigungen",
                     "icon": "mdi:bell-ring"
                 },
-                "last_changed": "2021-03-22T14:24:08.005151+00:00",
-                "last_updated": "2021-03-22T14:24:08.005151+00:00",
+                "last_changed": "2021-03-22T15:32:27.703615+00:00",
+                "last_updated": "2021-03-22T15:32:27.703615+00:00",
                 "context": {
-                    "id": "0aa5088832a66a4868ca78544fbb7f43",
+                    "id": "22e82d70c15c77746827b7f2af5c942f",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
                 "entity_id": "sensor.redmi_note_8_pro_letzte_benachrichtigung",
-                "state": "kp mal schaun hab mit vorbehalt zugesagt",
+                "state": "Pr\u00fcfen auf Nachrichten\u00a0\u2026",
                 "attributes": {
-                    "activityType": "chat",
-                    "android.appInfo": "ApplicationInfo{760f5b1 com.microsoft.teams}",
-                    "android.bigText": "kp mal schaun hab mit vorbehalt zugesagt",
+                    "android.appInfo": "ApplicationInfo{f0de2d4 org.thoughtcrime.securesms}",
                     "android.infoText": "null",
                     "android.largeIcon": "null",
                     "android.progress": 0,
@@ -1211,28 +1209,25 @@
                     "android.remoteInputHistory": "null",
                     "android.showChronometer": false,
                     "android.showWhen": true,
-                    "android.subText": "1 neue Nachricht",
-                    "android.template": "android.app.Notification$BigTextStyle",
-                    "android.text": "kp mal schaun hab mit vorbehalt zugesagt",
-                    "android.title": "Bastian Walk",
-                    "is_clearable": true,
-                    "is_ongoing": false,
-                    "key_notification_user_object_id": "4ba08c67-32a4-4024-a48e-ca573c58f986",
-                    "messageId": 1616422908644,
-                    "package": "com.microsoft.teams",
-                    "post_time": 1616422907848,
+                    "android.subText": "null",
+                    "android.text": "null",
+                    "android.title": "Pr\u00fcfen auf Nachrichten\u00a0\u2026",
+                    "is_clearable": false,
+                    "is_ongoing": true,
+                    "package": "org.thoughtcrime.securesms",
+                    "post_time": 1616427140650,
                     "friendly_name": "Redmi Note 8 Pro Letzte Benachrichtigung",
                     "icon": "mdi:bell-ring"
                 },
-                "last_changed": "2021-03-22T14:21:50.610524+00:00",
-                "last_updated": "2021-03-22T14:21:50.610524+00:00",
+                "last_changed": "2021-03-22T15:32:23.431788+00:00",
+                "last_updated": "2021-03-22T15:32:23.431788+00:00",
                 "context": {
-                    "id": "24795d3586ea5b7a8ab7025d90ac6941",
+                    "id": "2bd3c252e3e957e1341a4f62e2b3fef6",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -1251,7 +1246,7 @@
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         },
         {
             "state": {
@@ -1259,24 +1254,24 @@
                 "state": "home",
                 "attributes": {
                     "source_type": "gps",
-                    "latitude": 49.460818,
-                    "longitude": 11.0817155,
-                    "gps_accuracy": 13,
-                    "altitude": 374.0,
+                    "latitude": 49.4608343,
+                    "longitude": 11.0816897,
+                    "gps_accuracy": 12,
+                    "altitude": 373.0,
                     "course": 0,
                     "speed": 0,
                     "vertical_accuracy": 3,
                     "friendly_name": "Redmi Note 8 Pro"
                 },
-                "last_changed": "2021-03-22T14:23:22.422415+00:00",
-                "last_updated": "2021-03-22T14:23:22.422415+00:00",
+                "last_changed": "2021-03-22T15:42:32.535378+00:00",
+                "last_updated": "2021-03-22T15:42:32.535378+00:00",
                 "context": {
-                    "id": "02fd281780ae4347d26bd8b6b79018fb",
+                    "id": "a174dbf765a6cce8148aa05934ce20c0",
                     "parent_id": null,
                     "user_id": null
                 }
             },
-            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+            "last_seen": "2021-03-22T15:43:37.117756+00:00"
         }
     ]
 }

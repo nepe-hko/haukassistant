@@ -5,3 +5,7 @@ www
 .vscode
 .DS_Store
 home-assistant_v2.db
+
+#folders
+.cloud
+.storage
