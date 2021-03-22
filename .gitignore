@@ -1,0 +1,7 @@
+secrets.yaml
+home-assistant.log
+custom_components/
+www
+.vscode
+.DS_Store
+home-assistant_v2.db

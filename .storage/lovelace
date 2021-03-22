@@ -1,0 +1,147 @@
+{
+    "version": 1,
+    "key": "lovelace",
+    "data": {
+        "config": {
+            "title": "Daniel",
+            "views": [
+                {
+                    "path": "default_view",
+                    "title": "Home",
+                    "cards": [
+                        {
+                            "type": "custom:light-entity-card",
+                            "entity": "light.licht"
+                        },
+                        {
+                            "type": "entities",
+                            "entities": [
+                                {
+                                    "entity": "binary_sensor.fenster"
+                                },
+                                {
+                                    "entity": "sensor.thermostat_heating"
+                                },
+                                {
+                                    "entity": "switch.anlage",
+                                    "icon": "hass:music"
+                                },
+                                {
+                                    "entity": "switch.bettlicht",
+                                    "icon": "mdi:led-strip-variant"
+                                },
+                                {
+                                    "entity": "switch.computer",
+                                    "icon": "mdi:desktop-classic"
+                                },
+                                {
+                                    "entity": "cover.rollo"
+                                }
+                            ],
+                            "state_color": false,
+                            "show_header_toggle": false
+                        },
+                        {
+                            "type": "custom:light-entity-card",
+                            "entity": "light.licht_ambilight"
+                        },
+                        {
+                            "type": "custom:atomic-calendar-revive",
+                            "entities": [
+                                {
+                                    "entity": "calendar.geburtstage",
+                                    "titleColor": "red",
+                                    "whitelist": "word1,word2"
+                                },
+                                {
+                                    "entity": "calendar.geburtstage",
+                                    "blacklist": "word1, word2"
+                                }
+                            ],
+                            "firstDayOfWeek": 1,
+                            "maxDaysToShow": 30,
+                            "showProgressBar": false,
+                            "showDescription": false,
+                            "showLoader": true,
+                            "showDate": false,
+                            "sortByStartTime": false,
+                            "hideFinishedEvents": false,
+                            "showCurrentEventLine": false,
+                            "showMonth": true,
+                            "showWeekDay": false,
+                            "disableEventLink": false,
+                            "showFullDayProgress": false,
+                            "disableCalLink": false,
+                            "disableCalLocationLink": false,
+                            "disableCalEventLink": false,
+                            "showLastCalendarWeek": false,
+                            "showEventIcon": false,
+                            "showNoEventsForToday": false,
+                            "dimFinishedEvents": false,
+                            "showRelativeTime": false,
+                            "name": "N\u00e4chste Geburtstage",
+                            "showLocation": false,
+                            "fullDayEventText": " "
+                        }
+                    ]
+                },
+                {
+                    "title": "Home 2",
+                    "path": "home-2",
+                    "mode": "panel",
+                    "badges": [],
+                    "cards": [
+                        {
+                            "type": "custom:apexcharts-card",
+                            "header": {
+                                "show": true,
+                                "title": "CO2"
+                            },
+                            "experimental": {
+                                "color_threshold": true,
+                                "brush": true
+                            },
+                            "graph_span": "7d",
+                            "brush": {
+                                "selection_span": "24h",
+                                "apex_config": null
+                            },
+                            "series": [
+                                {
+                                    "entity": "sensor.netatmo_p58_indoor_co2",
+                                    "color": "none",
+                                    "type": "area",
+                                    "stroke_width": 1,
+                                    "color_threshold": [
+                                        {
+                                            "value": 2000,
+                                            "color": "red"
+                                        },
+                                        {
+                                            "value": 1200,
+                                            "color": "yellow"
+                                        },
+                                        {
+                                            "value": 400,
+                                            "color": "green"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "entity": "sensor.netatmo_p58_indoor_co2",
+                                    "color": "yellow",
+                                    "stroke_width": 1,
+                                    "float_precision": 0,
+                                    "show": {
+                                        "in_brush": true,
+                                        "in_chart": false
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1282 @@
+{
+    "version": 1,
+    "key": "core.restore_state",
+    "data": [
+        {
+            "state": {
+                "entity_id": "person.daniel",
+                "state": "home",
+                "attributes": {
+                    "editable": false,
+                    "id": "daniel",
+                    "latitude": 49.460818,
+                    "longitude": 11.0817155,
+                    "gps_accuracy": 13,
+                    "source": "device_tracker.redmi_note_8_pro",
+                    "user_id": "95c81b0e1a784cbca7f0f195f6cb4b35",
+                    "friendly_name": "Daniel"
+                },
+                "last_changed": "2021-03-22T12:12:14.587552+00:00",
+                "last_updated": "2021-03-22T14:23:22.423306+00:00",
+                "context": {
+                    "id": "bff829e69ca6f9440a4c6a733c4411fb",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "automation.benachrichtigen_bei_schlechter_luft",
+                "state": "on",
+                "attributes": {
+                    "last_triggered": "2021-03-22T09:25:36.874813+00:00",
+                    "mode": "single",
+                    "current": 0,
+                    "id": "1614534843060",
+                    "friendly_name": "Benachrichtigen bei schlechter Luft"
+                },
+                "last_changed": "2021-03-21T15:13:29.579304+00:00",
+                "last_updated": "2021-03-22T09:25:37.313458+00:00",
+                "context": {
+                    "id": "bba89ac9fe563bd44a1a18c134c23636",
+                    "parent_id": "1561debefde843c8eea1f9de561162b8",
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_ladt_derzeit",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro L\u00e4dt derzeit",
+                    "icon": "mdi:power-plug-off",
+                    "device_class": "plug"
+                },
+                "last_changed": "2021-03-21T16:51:26.902548+00:00",
+                "last_updated": "2021-03-21T16:51:26.902548+00:00",
+                "context": {
+                    "id": "6a7853b63004c1d8aeffd8297974e837",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_app_inaktiv",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro App inaktiv",
+                    "icon": "mdi:timer-outline"
+                },
+                "last_changed": "2021-03-21T15:13:30.036602+00:00",
+                "last_updated": "2021-03-21T15:13:30.036602+00:00",
+                "context": {
+                    "id": "5e5f7b14f0bbe577a40e36cbcc7a5212",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_kopfhorer",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Kopfh\u00f6rer",
+                    "icon": "mdi:headphones-off"
+                },
+                "last_changed": "2021-03-21T15:13:30.037181+00:00",
+                "last_updated": "2021-03-21T15:13:30.037181+00:00",
+                "context": {
+                    "id": "5ffd60f85771e2b766d27630c2b7459a",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_mikrofon_stummgeschaltet",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Mikrofon stummgeschaltet",
+                    "icon": "mdi:microphone"
+                },
+                "last_changed": "2021-03-21T15:13:30.037742+00:00",
+                "last_updated": "2021-03-21T15:13:30.037742+00:00",
+                "context": {
+                    "id": "d308118490d76d5cb190f1c34bbf3061",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_freisprechen",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Freisprechen",
+                    "icon": "mdi:volume-off"
+                },
+                "last_changed": "2021-03-21T15:13:30.038318+00:00",
+                "last_updated": "2021-03-21T15:13:30.038318+00:00",
+                "context": {
+                    "id": "0d216821279bda85a4c4cb509f80365a",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_musik_wird_abgespielt",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Musik wird abgespielt",
+                    "icon": "mdi:music-off"
+                },
+                "last_changed": "2021-03-22T11:15:18.126631+00:00",
+                "last_updated": "2021-03-22T11:15:18.126631+00:00",
+                "context": {
+                    "id": "e39947a637ea2c05b1a338d4f19583de",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_bluetooth_status",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Bluetooth-Status",
+                    "icon": "mdi:bluetooth"
+                },
+                "last_changed": "2021-03-21T15:13:30.039444+00:00",
+                "last_updated": "2021-03-21T15:13:30.039444+00:00",
+                "context": {
+                    "id": "dc4f2a0e2bb5d3217db023a22dd36c35",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_gerat_ist_gesperrt",
+                "state": "on",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Ger\u00e4t ist gesperrt",
+                    "icon": "mdi:cellphone-lock"
+                },
+                "last_changed": "2021-03-22T14:02:49.018435+00:00",
+                "last_updated": "2021-03-22T14:02:49.018435+00:00",
+                "context": {
+                    "id": "42877dd6dbfb82c97ce37e86550bd795",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_gerat_ist_sicher",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Ger\u00e4t ist sicher",
+                    "icon": "mdi:cellphone-key"
+                },
+                "last_changed": "2021-03-21T15:13:30.040618+00:00",
+                "last_updated": "2021-03-21T15:13:30.040618+00:00",
+                "context": {
+                    "id": "8b1cd2574fbab8747c9684ef593a2b7c",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_displaysperre_gesetzt",
+                "state": "on",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Displaysperre gesetzt",
+                    "icon": "mdi:cellphone-lock"
+                },
+                "last_changed": "2021-03-22T14:02:49.020106+00:00",
+                "last_updated": "2021-03-22T14:02:49.020106+00:00",
+                "context": {
+                    "id": "95c501ed498eeec30df7e09f9482490b",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_displaysperre",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Displaysperre",
+                    "icon": "mdi:cellphone-key"
+                },
+                "last_changed": "2021-03-21T15:13:30.041743+00:00",
+                "last_updated": "2021-03-21T15:13:30.041743+00:00",
+                "context": {
+                    "id": "ca16015c06ce06633d0099c48ebca14d",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_mobile_daten",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Mobile Daten",
+                    "icon": "mdi:signal"
+                },
+                "last_changed": "2021-03-21T15:13:30.042306+00:00",
+                "last_updated": "2021-03-21T15:13:30.042306+00:00",
+                "context": {
+                    "id": "bec8c5bfea6cf51f403ff5a5c86a2cfc",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_mobiles_datenroaming",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Mobiles Datenroaming",
+                    "icon": "mdi:toggle-switch-off"
+                },
+                "last_changed": "2021-03-21T15:13:30.042862+00:00",
+                "last_updated": "2021-03-21T15:13:30.042862+00:00",
+                "context": {
+                    "id": "8840ffb5a377c848792df58339785342",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_wlan_status",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro WLAN-Status",
+                    "icon": "mdi:wifi-off"
+                },
+                "last_changed": "2021-03-22T11:08:16.879500+00:00",
+                "last_updated": "2021-03-22T11:08:16.879500+00:00",
+                "context": {
+                    "id": "2dad85ac972e5fa002ef926c01058aeb",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_inaktiv",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Inaktiv",
+                    "icon": "mdi:cellphone-off"
+                },
+                "last_changed": "2021-03-22T14:15:19.699388+00:00",
+                "last_updated": "2021-03-22T14:15:19.699388+00:00",
+                "context": {
+                    "id": "222019dc38307ed32018b77bfe9b5cec",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_doze_modus",
+                "state": "off",
+                "attributes": {
+                    "ignoring_battery_optizimations": false,
+                    "friendly_name": "Redmi Note 8 Pro Doze-Modus",
+                    "icon": "mdi:sleep-off"
+                },
+                "last_changed": "2021-03-22T06:45:24.526213+00:00",
+                "last_updated": "2021-03-22T06:45:24.526213+00:00",
+                "context": {
+                    "id": "dde5d3535438e8306d12bdcab3ccd810",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "binary_sensor.redmi_note_8_pro_energiesparen",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Energiesparen",
+                    "icon": "mdi:battery-plus"
+                },
+                "last_changed": "2021-03-21T16:00:41.701277+00:00",
+                "last_updated": "2021-03-21T16:00:41.701277+00:00",
+                "context": {
+                    "id": "bbb37761d05e6689b9fcafd43dcd750b",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_akkufullstand",
+                "state": "31",
+                "attributes": {
+                    "unit_of_measurement": "%",
+                    "friendly_name": "Redmi Note 8 Pro Akkuf\u00fcllstand",
+                    "icon": "mdi:battery-30",
+                    "device_class": "battery"
+                },
+                "last_changed": "2021-03-22T14:15:19.695824+00:00",
+                "last_updated": "2021-03-22T14:15:19.695824+00:00",
+                "context": {
+                    "id": "90498f475b311acd10fcd27c9328b534",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_akkustatus",
+                "state": "discharging",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Akkustatus",
+                    "icon": "mdi:battery-minus"
+                },
+                "last_changed": "2021-03-21T16:51:26.901621+00:00",
+                "last_updated": "2021-03-21T16:51:26.901621+00:00",
+                "context": {
+                    "id": "e335a1139e4a1d50a690eb80b4a22151",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_typ_des_ladegerats",
+                "state": "none",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Typ des Ladeger\u00e4ts",
+                    "icon": "mdi:battery"
+                },
+                "last_changed": "2021-03-21T16:51:26.903859+00:00",
+                "last_updated": "2021-03-21T16:51:26.903859+00:00",
+                "context": {
+                    "id": "256d2a29c3f83ab56b78ac4e28f33b42",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_akkuzustand",
+                "state": "unknown",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Akkuzustand",
+                    "icon": "mdi:battery-heart-variant"
+                },
+                "last_changed": "2021-03-21T15:13:30.087097+00:00",
+                "last_updated": "2021-03-21T15:13:30.087097+00:00",
+                "context": {
+                    "id": "ea660367f95858e7b014c2c107614d69",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_derzeitige_version",
+                "state": "unknown",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Derzeitige Version",
+                    "icon": "mdi:android"
+                },
+                "last_changed": "2021-03-21T15:13:30.087680+00:00",
+                "last_updated": "2021-03-21T15:13:30.087680+00:00",
+                "context": {
+                    "id": "af6af99d9badbb0225f19d387dbe1695",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_gesendete_daten_via_app_gb",
+                "state": "0.0035",
+                "attributes": {
+                    "unit_of_measurement": "GB",
+                    "friendly_name": "Redmi Note 8 Pro Gesendete Daten via App (GB)",
+                    "icon": "mdi:radio-tower"
+                },
+                "last_changed": "2021-03-22T14:20:32.988364+00:00",
+                "last_updated": "2021-03-22T14:20:32.988364+00:00",
+                "context": {
+                    "id": "3b8f574738d5ad30fe3a6c5883caff7d",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_empfangene_daten_via_app_gb",
+                "state": "0.001",
+                "attributes": {
+                    "unit_of_measurement": "GB",
+                    "friendly_name": "Redmi Note 8 Pro Empfangene Daten via App (GB)",
+                    "icon": "mdi:radio-tower"
+                },
+                "last_changed": "2021-03-22T14:02:00.835849+00:00",
+                "last_updated": "2021-03-22T14:02:00.835849+00:00",
+                "context": {
+                    "id": "a0d45aa80fc735544ef233f5986d5907",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_app_speicher",
+                "state": "0.023",
+                "attributes": {
+                    "free_memory": 0.005,
+                    "total_memory": 0.028,
+                    "unit_of_measurement": "GB",
+                    "friendly_name": "Redmi Note 8 Pro App Speicher",
+                    "icon": "mdi:memory"
+                },
+                "last_changed": "2021-03-22T14:24:08.002458+00:00",
+                "last_updated": "2021-03-22T14:24:08.002458+00:00",
+                "context": {
+                    "id": "2dc1d88a72a429e9dd75eb0e5dfbc538",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_app_standby_bucket",
+                "state": "never",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro App Standby Bucket",
+                    "icon": "mdi:android"
+                },
+                "last_changed": "2021-03-22T10:28:42.193727+00:00",
+                "last_updated": "2021-03-22T10:28:42.193727+00:00",
+                "context": {
+                    "id": "a484a15cf85c21b09b94aa5f3d88f8ec",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_wichtigkeit_der_app",
+                "state": "foreground_service",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Wichtigkeit der App",
+                    "icon": "mdi:android"
+                },
+                "last_changed": "2021-03-22T14:02:49.016975+00:00",
+                "last_updated": "2021-03-22T14:02:49.016975+00:00",
+                "context": {
+                    "id": "c16e49d52499aa77ea7513c74c5ba10e",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_klingeltonmodus",
+                "state": "normal",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Klingeltonmodus",
+                    "icon": "mdi:volume-high"
+                },
+                "last_changed": "2021-03-21T15:13:30.091080+00:00",
+                "last_updated": "2021-03-21T15:13:30.091080+00:00",
+                "context": {
+                    "id": "392f3948ee59daf77fe6dd34978009f3",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_audiomodus",
+                "state": "normal",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Audiomodus",
+                    "icon": "mdi:volume-high"
+                },
+                "last_changed": "2021-03-21T15:13:30.091700+00:00",
+                "last_updated": "2021-03-21T15:13:30.091700+00:00",
+                "context": {
+                    "id": "02b3e6bc67a48b4a7acd9e2f08dce4f5",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_lautstarke_wecker",
+                "state": "5",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Lautst\u00e4rke Wecker",
+                    "icon": "mdi:alarm"
+                },
+                "last_changed": "2021-03-21T15:13:30.092262+00:00",
+                "last_updated": "2021-03-21T15:13:30.092262+00:00",
+                "context": {
+                    "id": "4cc25fce30a3c3dec6f8bd5ae81efa9f",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_lautstarke_anruf",
+                "state": "5",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Lautst\u00e4rke Anruf",
+                    "icon": "mdi:phone"
+                },
+                "last_changed": "2021-03-22T11:15:18.127942+00:00",
+                "last_updated": "2021-03-22T11:15:18.127942+00:00",
+                "context": {
+                    "id": "7a13799975a13dc755397b073604bc65",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_lautstarke_musikwiedergabe",
+                "state": "3",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Lautst\u00e4rke Musikwiedergabe",
+                    "icon": "mdi:music"
+                },
+                "last_changed": "2021-03-22T11:15:18.128945+00:00",
+                "last_updated": "2021-03-22T11:15:18.128945+00:00",
+                "context": {
+                    "id": "746a218177f3dad5f38107b860cedd95",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_lautstarke_klingelton",
+                "state": "0",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Lautst\u00e4rke Klingelton",
+                    "icon": "mdi:phone-ring"
+                },
+                "last_changed": "2021-03-21T15:13:30.094011+00:00",
+                "last_updated": "2021-03-21T15:13:30.094011+00:00",
+                "context": {
+                    "id": "3e768daf100cfffd49b5425be1b2466e",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_bluetooth_verbindung",
+                "state": "0",
+                "attributes": {
+                    "connected_not_paired_devices": "[]",
+                    "connected_paired_devices": "[]",
+                    "paired_devices": "[B8:D5:0B:C3:4B:3B, 2C:4D:79:36:F5:92, 70:EE:50:69:30:49, 94:3A:91:0F:DF:50, 08:EB:ED:2C:D0:5C, 1C:8B:FB:6B:DA:AA, 4C:87:5D:CF:F1:26]",
+                    "unit_of_measurement": "connection(s)",
+                    "friendly_name": "Redmi Note 8 Pro Bluetooth-Verbindung",
+                    "icon": "mdi:bluetooth"
+                },
+                "last_changed": "2021-03-22T11:15:18.129988+00:00",
+                "last_updated": "2021-03-22T11:15:18.129988+00:00",
+                "context": {
+                    "id": "60c011c8b338b40e9a98ef44f545705f",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_nicht_storen_sensor",
+                "state": "unknown",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Nicht-St\u00f6ren Sensor",
+                    "icon": "mdi:do-not-disturb"
+                },
+                "last_changed": "2021-03-21T15:13:30.095191+00:00",
+                "last_updated": "2021-03-21T15:13:30.095191+00:00",
+                "context": {
+                    "id": "5af8911780aadb381260818379d7e083",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_letzter_neustart",
+                "state": "2021-03-22T07:03:38Z",
+                "attributes": {
+                    "Local Time": "Mon Mar 22 08:03:38 GMT+01:00 2021",
+                    "Time in Milliseconds": 1616396618729,
+                    "friendly_name": "Redmi Note 8 Pro Letzter Neustart",
+                    "icon": "mdi:restart",
+                    "device_class": "timestamp"
+                },
+                "last_changed": "2021-03-22T07:05:11.708113+00:00",
+                "last_updated": "2021-03-22T07:05:11.708113+00:00",
+                "context": {
+                    "id": "7a676f10a13bdb9ff088a9e440e2a1d3",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_ausloser_der_letzten_aktualisierung",
+                "state": "SensorWorker",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Ausl\u00f6ser der letzten Aktualisierung",
+                    "icon": "mdi:update"
+                },
+                "last_changed": "2021-03-22T14:20:32.991519+00:00",
+                "last_updated": "2021-03-22T14:20:32.991519+00:00",
+                "context": {
+                    "id": "0a0b471fafa6dbce1f2eabf8dbbcc9df",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_wlan_verbindung",
+                "state": "<not connected>",
+                "attributes": {
+                    "is_hidden": false,
+                    "friendly_name": "Redmi Note 8 Pro WLAN-Verbindung",
+                    "icon": "mdi:wifi-off"
+                },
+                "last_changed": "2021-03-22T11:08:16.875733+00:00",
+                "last_updated": "2021-03-22T11:08:16.875733+00:00",
+                "context": {
+                    "id": "527ae837c280002a4434abfcd6486b22",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_wlan_bssid",
+                "state": "<not connected>",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro WLAN BSSID",
+                    "icon": "mdi:wifi-off"
+                },
+                "last_changed": "2021-03-22T11:08:16.876778+00:00",
+                "last_updated": "2021-03-22T11:08:16.876778+00:00",
+                "context": {
+                    "id": "9a121f7116a422e5c20663605c4d3838",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_wlan_ip_adresse",
+                "state": "<not connected>",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro WLAN-IP-Adresse",
+                    "icon": "mdi:ip"
+                },
+                "last_changed": "2021-03-22T11:08:16.877809+00:00",
+                "last_updated": "2021-03-22T11:08:16.877809+00:00",
+                "context": {
+                    "id": "a774fe2bed5d660af0216c0a6181edbd",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_wlan_geschwindigkeit",
+                "state": "0",
+                "attributes": {
+                    "unit_of_measurement": "Mbps",
+                    "friendly_name": "Redmi Note 8 Pro WLAN-Geschwindigkeit",
+                    "icon": "mdi:wifi-strength-off"
+                },
+                "last_changed": "2021-03-22T11:08:16.878833+00:00",
+                "last_updated": "2021-03-22T11:08:16.878833+00:00",
+                "context": {
+                    "id": "863f07c4dce38a715e52cde5bae2e06a",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_wlan_frequenz",
+                "state": "0",
+                "attributes": {
+                    "unit_of_measurement": "MHz",
+                    "friendly_name": "Redmi Note 8 Pro WLAN-Frequenz",
+                    "icon": "mdi:wifi"
+                },
+                "last_changed": "2021-03-22T11:08:16.880862+00:00",
+                "last_updated": "2021-03-22T11:08:16.880862+00:00",
+                "context": {
+                    "id": "b2281d3e32819bd6937ce0aedc42e7eb",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_wlan_signalstarke",
+                "state": "-1",
+                "attributes": {
+                    "unit_of_measurement": "dBm",
+                    "friendly_name": "Redmi Note 8 Pro WLAN-Signalst\u00e4rke",
+                    "icon": "mdi:wifi-strength-off"
+                },
+                "last_changed": "2021-03-22T11:08:16.881881+00:00",
+                "last_updated": "2021-03-22T11:08:16.881881+00:00",
+                "context": {
+                    "id": "73d10c58cf376d1515ffc0d59d76a765",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_nachster_wecker",
+                "state": "unavailable",
+                "attributes": {
+                    "Local Time": "",
+                    "Package": "",
+                    "Time in Milliseconds": 0,
+                    "friendly_name": "Redmi Note 8 Pro N\u00e4chster Wecker",
+                    "icon": "mdi:alarm",
+                    "device_class": "timestamp"
+                },
+                "last_changed": "2021-03-22T07:05:11.711227+00:00",
+                "last_updated": "2021-03-22T07:05:11.711227+00:00",
+                "context": {
+                    "id": "3c06c2ade5d8e260c2dff83f0d96e41e",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_anzahl_aktiver_benachrichtigungen",
+                "state": "3",
+                "attributes": {
+                    "android.appInfo_com.miui.mishare.connectivity": "ApplicationInfo{ba81dad com.miui.mishare.connectivity}",
+                    "android.appInfo_com.miui.notification": "ApplicationInfo{10e2ac4 com.miui.notification}",
+                    "android.appInfo_com.miui.securitycenter": "ApplicationInfo{7f471d7 com.miui.securitycenter}",
+                    "android.reduced.images_com.miui.mishare.connectivity": true,
+                    "android.reduced.images_com.miui.notification": true,
+                    "android.reduced.images_com.miui.securitycenter": true,
+                    "android.text_com.miui.mishare.connectivity": "F\u00fcr weitere Informationen oder zum Beenden der App tippen.",
+                    "android.text_com.miui.securitycenter": "F\u00fcr weitere Informationen oder zum Beenden der App tippen.",
+                    "android.title_com.miui.mishare.connectivity": "Mi Share wird ausgef\u00fchrt",
+                    "android.title_com.miui.securitycenter": "Sicherheit wird ausgef\u00fchrt",
+                    "com.miui.mishare.connectivity_10_is_clearable": false,
+                    "com.miui.mishare.connectivity_10_is_ongoing": true,
+                    "com.miui.mishare.connectivity_10_post_time": 1616396729411,
+                    "com.miui.notification_1_is_clearable": false,
+                    "com.miui.notification_1_is_ongoing": true,
+                    "com.miui.notification_1_post_time": 1616396692169,
+                    "com.miui.securitycenter_20006_is_clearable": false,
+                    "com.miui.securitycenter_20006_is_ongoing": true,
+                    "com.miui.securitycenter_20006_post_time": 1616396699136,
+                    "unit_of_measurement": "notifications",
+                    "friendly_name": "Redmi Note 8 Pro Anzahl aktiver Benachrichtigungen",
+                    "icon": "mdi:bell-ring"
+                },
+                "last_changed": "2021-03-22T14:24:08.006043+00:00",
+                "last_updated": "2021-03-22T14:24:08.006043+00:00",
+                "context": {
+                    "id": "0d807ed7263c368b67f5cf585a537fec",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_telefonstatus",
+                "state": "idle",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Telefonstatus",
+                    "icon": "mdi:phone"
+                },
+                "last_changed": "2021-03-21T15:13:30.101404+00:00",
+                "last_updated": "2021-03-21T15:13:30.101404+00:00",
+                "context": {
+                    "id": "a4a0312d86169a1ccf7169efb8385df8",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_sim_1",
+                "state": "unknown",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro SIM 1",
+                    "icon": "mdi:sim"
+                },
+                "last_changed": "2021-03-21T15:13:30.101993+00:00",
+                "last_updated": "2021-03-21T15:13:30.101993+00:00",
+                "context": {
+                    "id": "771534588adda3348ea0d3e35e4003c0",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_sim_2",
+                "state": "Unavailable",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro SIM 2",
+                    "icon": "mdi:sim"
+                },
+                "last_changed": "2021-03-21T15:13:30.102563+00:00",
+                "last_updated": "2021-03-21T15:13:30.102563+00:00",
+                "context": {
+                    "id": "b4a1f54b2ddee1ed92a606ac48588eee",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_interner_speicher",
+                "state": "71",
+                "attributes": {
+                    "Free internal storage": "78GB",
+                    "Total internal storage": "110GB",
+                    "unit_of_measurement": "%",
+                    "friendly_name": "Redmi Note 8 Pro Interner Speicher",
+                    "icon": "mdi:harddisk"
+                },
+                "last_changed": "2021-03-21T15:13:30.103131+00:00",
+                "last_updated": "2021-03-21T15:13:30.103131+00:00",
+                "context": {
+                    "id": "2d638ffbdb5fade7423f2227e2c94540",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_externer_speicher",
+                "state": "unknown",
+                "attributes": {
+                    "unit_of_measurement": "%",
+                    "friendly_name": "Redmi Note 8 Pro Externer Speicher",
+                    "icon": "mdi:micro-sd"
+                },
+                "last_changed": "2021-03-21T15:13:30.103773+00:00",
+                "last_updated": "2021-03-21T15:13:30.103773+00:00",
+                "context": {
+                    "id": "34359a8c411ec0ac143aa320e6a803e3",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_aktuelle_zeitzone",
+                "state": "unknown",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro Aktuelle Zeitzone",
+                    "icon": "mdi:map-clock"
+                },
+                "last_changed": "2021-03-21T15:13:30.104432+00:00",
+                "last_updated": "2021-03-21T15:13:30.104432+00:00",
+                "context": {
+                    "id": "5bd6393e9de4287b9dc6d6ff8a5162df",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_insgesamt_empfangene_daten_gb",
+                "state": "0.113",
+                "attributes": {
+                    "unit_of_measurement": "GB",
+                    "friendly_name": "Redmi Note 8 Pro Insgesamt empfangene Daten (GB)",
+                    "icon": "mdi:radio-tower"
+                },
+                "last_changed": "2021-03-22T14:15:19.701132+00:00",
+                "last_updated": "2021-03-22T14:15:19.701132+00:00",
+                "context": {
+                    "id": "84ea114842d9b9d8dfe26a68a607d104",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_insgesamt_gesendet_gb",
+                "state": "0.015",
+                "attributes": {
+                    "unit_of_measurement": "GB",
+                    "friendly_name": "Redmi Note 8 Pro Insgesamt gesendet (GB)",
+                    "icon": "mdi:radio-tower"
+                },
+                "last_changed": "2021-03-22T14:15:19.702320+00:00",
+                "last_updated": "2021-03-22T14:15:19.702320+00:00",
+                "context": {
+                    "id": "42560ca3a2ba91fa35fdc1d3f3509f3f",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_geokodierter_standort",
+                "state": "Pirckheimerstra\u00dfe 58, 90408 N\u00fcrnberg, Deutschland",
+                "attributes": {
+                    "Administrative Area": "Bayern",
+                    "Country": "Deutschland",
+                    "ISO Country Code": "DE",
+                    "Latitude": 49.460842,
+                    "Locality": "N\u00fcrnberg",
+                    "Longitude": 11.081725,
+                    "Postal Code": "90408",
+                    "Sub Administrative Area": "Mittelfranken",
+                    "Sub Locality": "Mitte",
+                    "Sub Thoroughfare": "58",
+                    "Thoroughfare": "Pirckheimerstra\u00dfe",
+                    "friendly_name": "Redmi Note 8 Pro Geokodierter Standort",
+                    "icon": "mdi:map"
+                },
+                "last_changed": "2021-03-22T12:13:05.935162+00:00",
+                "last_updated": "2021-03-22T12:13:05.935162+00:00",
+                "context": {
+                    "id": "1606c2a3cda66e2811c104b5ce91037a",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_helligkeitssensor",
+                "state": "75",
+                "attributes": {
+                    "unit_of_measurement": "lx",
+                    "friendly_name": "Redmi Note 8 Pro Helligkeitssensor",
+                    "icon": "mdi:brightness-5",
+                    "device_class": "illuminance"
+                },
+                "last_changed": "2021-03-22T14:24:08.004011+00:00",
+                "last_updated": "2021-03-22T14:24:08.004011+00:00",
+                "context": {
+                    "id": "644461eb65205b25105e09a2b17b9621",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_offentliche_ip_adresse",
+                "state": "2.247.252.197",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro \u00d6ffentliche IP-Adresse",
+                    "icon": "mdi:ip"
+                },
+                "last_changed": "2021-03-22T11:08:44.672463+00:00",
+                "last_updated": "2021-03-22T11:08:44.672463+00:00",
+                "context": {
+                    "id": "ec698f9cdc03a44fddb9dbae164513d5",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_naherungssensor",
+                "state": "far",
+                "attributes": {
+                    "friendly_name": "Redmi Note 8 Pro N\u00e4herungssensor",
+                    "icon": "mdi:leak"
+                },
+                "last_changed": "2021-03-22T12:17:04.657583+00:00",
+                "last_updated": "2021-03-22T12:17:04.657583+00:00",
+                "context": {
+                    "id": "114af01e87f706361600170c82077b60",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_erkannte_aktivitat",
+                "state": "still",
+                "attributes": {
+                    "still": 100,
+                    "friendly_name": "Redmi Note 8 Pro Erkannte Aktivit\u00e4t",
+                    "icon": "mdi:sleep"
+                },
+                "last_changed": "2021-03-22T12:13:05.933155+00:00",
+                "last_updated": "2021-03-22T12:13:05.933155+00:00",
+                "context": {
+                    "id": "2d90dff54015bd791ff67adc7ca17010",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_letzte_entfernte_benachrichtigungen",
+                "state": "kp mal schaun hab mit vorbehalt zugesagt",
+                "attributes": {
+                    "activityType": "chat",
+                    "android.bigText": "kp mal schaun hab mit vorbehalt zugesagt",
+                    "android.infoText": "null",
+                    "android.largeIcon": "null",
+                    "android.progress": 0,
+                    "android.progressIndeterminate": false,
+                    "android.progressMax": 0,
+                    "android.reduced.images": true,
+                    "android.remoteInputHistory": "null",
+                    "android.showChronometer": false,
+                    "android.showWhen": true,
+                    "android.subText": "1 neue Nachricht",
+                    "android.template": "android.app.Notification$BigTextStyle",
+                    "android.text": "kp mal schaun hab mit vorbehalt zugesagt",
+                    "android.title": "Bastian Walk",
+                    "is_clearable": true,
+                    "is_ongoing": false,
+                    "key_notification_user_object_id": "4ba08c67-32a4-4024-a48e-ca573c58f986",
+                    "messageId": 1616422908644,
+                    "package": "com.microsoft.teams",
+                    "post_time": 1616422907848,
+                    "friendly_name": "Redmi Note 8 Pro Letzte entfernte Benachrichtigungen",
+                    "icon": "mdi:bell-ring"
+                },
+                "last_changed": "2021-03-22T14:24:08.005151+00:00",
+                "last_updated": "2021-03-22T14:24:08.005151+00:00",
+                "context": {
+                    "id": "0aa5088832a66a4868ca78544fbb7f43",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_letzte_benachrichtigung",
+                "state": "kp mal schaun hab mit vorbehalt zugesagt",
+                "attributes": {
+                    "activityType": "chat",
+                    "android.appInfo": "ApplicationInfo{760f5b1 com.microsoft.teams}",
+                    "android.bigText": "kp mal schaun hab mit vorbehalt zugesagt",
+                    "android.infoText": "null",
+                    "android.largeIcon": "null",
+                    "android.progress": 0,
+                    "android.progressIndeterminate": false,
+                    "android.progressMax": 0,
+                    "android.reduced.images": true,
+                    "android.remoteInputHistory": "null",
+                    "android.showChronometer": false,
+                    "android.showWhen": true,
+                    "android.subText": "1 neue Nachricht",
+                    "android.template": "android.app.Notification$BigTextStyle",
+                    "android.text": "kp mal schaun hab mit vorbehalt zugesagt",
+                    "android.title": "Bastian Walk",
+                    "is_clearable": true,
+                    "is_ongoing": false,
+                    "key_notification_user_object_id": "4ba08c67-32a4-4024-a48e-ca573c58f986",
+                    "messageId": 1616422908644,
+                    "package": "com.microsoft.teams",
+                    "post_time": 1616422907848,
+                    "friendly_name": "Redmi Note 8 Pro Letzte Benachrichtigung",
+                    "icon": "mdi:bell-ring"
+                },
+                "last_changed": "2021-03-22T14:21:50.610524+00:00",
+                "last_updated": "2021-03-22T14:21:50.610524+00:00",
+                "context": {
+                    "id": "24795d3586ea5b7a8ab7025d90ac6941",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "sensor.redmi_note_8_pro_schrittsensor",
+                "state": "233",
+                "attributes": {
+                    "unit_of_measurement": "steps",
+                    "friendly_name": "Redmi Note 8 Pro Schrittsensor",
+                    "icon": "mdi:walk"
+                },
+                "last_changed": "2021-03-22T12:13:05.942316+00:00",
+                "last_updated": "2021-03-22T12:13:05.942316+00:00",
+                "context": {
+                    "id": "23c1f5c68cee30e4b42d21388e5c66ed",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "device_tracker.redmi_note_8_pro",
+                "state": "home",
+                "attributes": {
+                    "source_type": "gps",
+                    "latitude": 49.460818,
+                    "longitude": 11.0817155,
+                    "gps_accuracy": 13,
+                    "altitude": 374.0,
+                    "course": 0,
+                    "speed": 0,
+                    "vertical_accuracy": 3,
+                    "friendly_name": "Redmi Note 8 Pro"
+                },
+                "last_changed": "2021-03-22T14:23:22.422415+00:00",
+                "last_updated": "2021-03-22T14:23:22.422415+00:00",
+                "context": {
+                    "id": "02fd281780ae4347d26bd8b6b79018fb",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-03-22T14:28:37.106682+00:00"
+        }
+    ]
+}
