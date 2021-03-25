@@ -6,3 +6,5 @@
   type: js
 - url: /hacsfiles/atomic-calendar-revive/atomic-calendar-revive.js
   type: module
+- url: /local/apexcharts-card.js?v=1.8.2
+  type: module
