@@ -3,6 +3,7 @@ home-assistant.log
 custom_components/
 www
 .vscode
+.HA_VERSION
 .DS_Store
 home-assistant_v2.db
 
