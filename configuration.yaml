@@ -45,4 +45,13 @@ alexa:
       include_domains:
         - light
         - switch
+      exclude_domains:
+        - binary_sensor
+        - calendar
+        - sensor
+        - zone
+        - device_tracker
+        - weather
+        - script
+        - sun
 
