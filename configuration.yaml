@@ -27,10 +27,13 @@ scene: !include scenes.yaml
 
 # Alexa
 # https://www.nabucasa.com/config/amazon_alexa/
-cloud:
-  alexa:
-    entity_config:
-      switch.yamaha_receiver:
-        display_categories: MUSIC_SYSTEM
-      switch.bettlicht:
-        display_categories: LIGHT
+#cloud:
+#  alexa:
+#    entity_config:
+#      switch.yamaha_receiver:
+#        display_categories: MUSIC_SYSTEM
+#      switch.bettlicht:
+#        display_categories: LIGHT
+
+alexa:
+  smart_home:
