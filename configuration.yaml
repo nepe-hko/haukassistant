@@ -37,3 +37,12 @@ scene: !include scenes.yaml
 
 alexa:
   smart_home:
+    filter:
+      include_entities:
+        - cover.rollo
+        - vacuum.robbi
+        - climate.daniels_zimmer
+      include_domains:
+        - light
+        - switch
+
