@@ -55,3 +55,11 @@ alexa:
         - script
         - sun
 
+media_player:
+  # Use the Python ADB implementation
+  - platform: androidtv
+    name: Fire TV Stick
+    host: 192.168.178.85
+    adb_server_ip: 127.0.0.1
+    adb_server_port: 5037
+    get_sources: false
