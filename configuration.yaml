@@ -35,6 +35,13 @@ scene: !include scenes.yaml
 #      switch.bettlicht:
 #        display_categories: LIGHT
 
+# Wohnzimmer Stehlampe (L510 Tapo)
+light:
+    platform: tapo_p100_control
+    ip_address: 192.168.178.22
+    email: !secret tapo_email
+    password: !secret tapo_password
+
 alexa:
   smart_home:
     filter:
