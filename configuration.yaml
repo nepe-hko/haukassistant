@@ -58,5 +58,8 @@ alexa:
 media_player:
   # Use the Python ADB implementation
   - platform: androidtv
-    name: Fire TV Stick
+    name: firestick
     host: 192.168.178.85
+    adb_server_ip: 127.0.0.1
+    device_class: firetv
+    adb_server_port: 5037

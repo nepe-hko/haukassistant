@@ -1,6 +1,76 @@
 '1614533374915':
-  alias: Neues Skript
+  alias: Fernseher aus
   sequence:
-  - service: camera.snapshot
-    data: {}
+  - service: androidtv.adb_command
+    data:
+      entity_id: media_player.firestick
+      command: SLEEP
+  mode: restart
+  description: Schaltet den Fernseher aus
+firestick_down:
+  sequence:
+  - service: androidtv.adb_command
+    data:
+      entity_id: media_player.firestick
+      command: DOWN
+firestick_home:
+  sequence:
+  - service: androidtv.adb_command
+    data:
+      entity_id: media_player.firestick
+      command: HOME
+firestick_learn:
+  sequence:
+  - service: androidtv.learn_sendevent
+    data:
+      entity_id:
+goodnight:
+  alias: Gute Nacht
+  description: Schaltet einen 40min Sleep-Timer auf den Fernseher und schaltet alles
+    andere aus
+  mode: restart
+  sequence:
+  - alias: Ambilight aus
+    service: light.turn_off
+    target:
+      entity_id: light.ambilight
+  - alias: Bettlicht aus
+    service: switch.turn_off
+    target:
+      entity_id: switch.bettlicht
+  - alias: Licht aus
+    service: light.turn_off
+    target:
+      entity_id: light.licht
+  - alias: Computer aus
+    service: switch.turn_off
+    target:
+      entity_id: switch.computer
+  - delay:
+      minutes: '40'
+  - alias: Anlage aus
+    service: switch.turn_off
+    target:
+      entity_id: switch.anlage
+  - service: androidtv.adb_command
+    data:
+      entity_id: media_player.firestick
+      command: POWER
+say_something:
+  alias: Say Gute Nacht
+  sequence:
+  - service: notify.alexa_media_daniels_echo_dot
+    data:
+      message: Gute Nacht
+      data:
+        type: tts
   mode: single
+'1619112955156':
+  alias: Fernseher an
+  sequence:
+  - service: androidtv.adb_command
+    data:
+      entity_id: media_player.firestick
+      command: POWER
+  mode: restart
+  description: Schaltet den Fernseher an
